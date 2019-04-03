@@ -1,2 +1,2 @@
 # playground-javascript
-Examples of little projects created
+Examples of little projects created in Javascript
