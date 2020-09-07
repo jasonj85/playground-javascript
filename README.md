@@ -1,6 +1,13 @@
 # playground-javascript
 Examples of little projects created in Javascript
 
+## Picture in Picture
+URL: https://jasonj85.github.io/playground-javascript/picture-in-picture/
+
+INFO:
+* This app allows users to create a picture in picture environment on their screen
+* Functionality is supported by most modern browsers such as Chrome and Firefox
+
 ## Inifinite Scroll
 URL: https://jasonj85.github.io/playground-javascript/infinite-scroll/
 
