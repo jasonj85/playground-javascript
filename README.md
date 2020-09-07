@@ -2,6 +2,8 @@
 Examples of little projects created in Javascript
 
 ## Pig Dice Game
+URL: https://jasonj85.github.io/playground-javascript/Pig-Dice-Game/
+
 GAME RULES:
 - This game is designed for 2 players
 - Each player rolls the dice to add to their round score
