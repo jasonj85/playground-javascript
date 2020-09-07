@@ -1,7 +1,7 @@
 # playground-javascript
 Examples of little projects created in Javascript
 
-## I, Robot Comediam
+## I, Robot Comedian
 URL: https://jasonj85.github.io/playground-javascript/i-robot-comedian/
 
 INFO:
