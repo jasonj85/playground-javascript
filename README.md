@@ -1,10 +1,17 @@
 # playground-javascript
 Examples of little projects created in Javascript
 
+## Quote Generator
+URL: https://jasonj85.github.io/playground-javascript/quote-generator/
+
+INFO:
+- This app creates quotes using an API
+- Allows users to post the quote to their Twitter account
+
 ## Pig Dice Game
 URL: https://jasonj85.github.io/playground-javascript/Pig-Dice-Game/
 
-GAME RULES:
+INFO:
 - This game is designed for 2 players
 - Each player rolls the dice to add to their round score
 - If a player rolles a 1, their round score is lost. The next player gets to roll the dice now.
