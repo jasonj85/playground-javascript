@@ -1,6 +1,12 @@
 # playground-javascript
 Examples of little projects created in Javascript
 
+## Light / Dark mode
+URL: https://jasonj85.github.io/playground-javascript/light-dark-mode/
+
+INFO:
+* Dark mode is all the rave in this modern day, so having the ability to switch instantly is a nice upgrade
+
 ## I, Robot Comedian
 URL: https://jasonj85.github.io/playground-javascript/i-robot-comedian/
 
