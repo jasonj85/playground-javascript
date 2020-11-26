@@ -1,6 +1,13 @@
 # playground-javascript
 Examples of little projects created in Javascript
 
+## I, Robot Comedian
+URL: https://jasonj85.github.io/playground-javascript/i-robot-comedian/
+
+INFO:
+* Just a robot comedian trying to make it in the stand up comedy world
+* Uses 2 free APIs, 1 to serve programming jokes and 1 to convert text to speech
+
 ## Picture in Picture
 URL: https://jasonj85.github.io/playground-javascript/picture-in-picture/
 
