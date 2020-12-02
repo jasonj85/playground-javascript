@@ -1,7 +1,7 @@
 # playground-javascript
 Examples of demo projects created in Javascript
 
-## Light / Dark mode
+## Tailwind CSS demo with animations
 URL: https://jasonj85.github.io/playground-javascript/animated-template/
 
 INFO:
