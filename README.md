@@ -1,5 +1,11 @@
 # playground-javascript
-Examples of little projects created in Javascript
+Examples of demo projects created in Javascript
+
+## Light / Dark mode
+URL: https://jasonj85.github.io/playground-javascript/animated-template/
+
+INFO:
+* Quick demo site using tailwind CSS and additional javascript animations
 
 ## Light / Dark mode
 URL: https://jasonj85.github.io/playground-javascript/light-dark-mode/
